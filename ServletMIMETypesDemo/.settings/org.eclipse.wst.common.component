@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ServletMIMETypesDemo">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="ServletMIMETypesDemo"/>
+        <property name="java-output-path" value="/ServletMIMETypesDemo/build/classes"/>
+    </wb-module>
+</project-modules>
